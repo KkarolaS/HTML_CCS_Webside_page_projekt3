@@ -20,7 +20,7 @@ https://github.com/KkarolaS/HTML_CCS_Webside_page_projekt3.git
 Here you can find link to Netlify Repo:
 
 ```bash
-
+project3-page.netlify.app
 ```
 
 ## Authors and acknowledgment
