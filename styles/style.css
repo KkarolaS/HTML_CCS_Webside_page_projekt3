@@ -631,7 +631,7 @@ body {
   width: 50px;
   aspect-ratio: 1;
   background-color: rgb(225, 224, 224);
-  color: #ffffff;
+  color: var(--white);
   border-radius: 50px;
   display: flex;
   flex-direction: row;
